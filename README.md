@@ -29,7 +29,7 @@ Proyecto final — aplicación web en PHP (patrón MVC) para gestionar tareas y 
 
 1. Crea la base de datos en MySQL (ej. `task_management`).
 2. Ajusta las credenciales en `config/database.php` (host, usuario, pass, nombre DB).
-3. Ejecuta la migración SQL incluida (`data/init_mysql.sql`).
+3. Ejecuta la migración SQL incluida (`data/task_management.sql`).
 
 Esto generará la base de datos con tablas y datos de ejemplo.
 
